@@ -1,5 +1,7 @@
 ## Application Startup
 ```commandline
+git clone https://github.com/1zycodr/coding-team-task
+cd coding-team-task
 docker-compose build
 docker-compose up -d
 ```
