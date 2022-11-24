@@ -2,7 +2,7 @@ version: '3.0'
 
 services:
   core:
-    image: restaurant:1.0
+    image: outstaff :1.0
     restart: always
     build:
       context: .
